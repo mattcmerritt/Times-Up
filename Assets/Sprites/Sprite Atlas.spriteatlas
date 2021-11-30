@@ -15,12 +15,24 @@ SpriteAtlas:
       compressionQuality: 50
       maxTextureSize: 2048
       textureCompression: 0
-      filterMode: 1
+      filterMode: 0
       generateMipMaps: 0
       readable: 0
       crunchedCompression: 0
       sRGB: 1
-    platformSettings: []
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
       serializedVersion: 2
       padding: 4
@@ -32,11 +44,24 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
+    - {fileID: 2800000, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: 4389087710526665422, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -5724921108977739793, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -8682475869999219753, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -2027585944091991640, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -2053086910518219736, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: 4790423321541823241, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -6517763796028572274, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -3389871046354218237, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -1285010413162898243, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -4718171388349831917, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: -25115708975135754, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
+  - {fileID: 550269293898804406, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
   - {fileID: -4185631972713963450, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   - {fileID: 2764711196835654141, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   - {fileID: 8626140935053514553, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
@@ -55,6 +80,18 @@ SpriteAtlas:
   - {fileID: 2385183464074690143, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   - {fileID: 1474558813612535658, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   m_PackedSpriteNamesToIndex:
+  - BackgroundTiles_10
+  - BackgroundTiles_11
+  - BackgroundTiles_9
+  - BackgroundTiles_8
+  - BackgroundTiles_3
+  - BackgroundTiles_2
+  - BackgroundTiles_1
+  - BackgroundTiles_0
+  - BackgroundTiles_7
+  - BackgroundTiles_6
+  - BackgroundTiles_5
+  - BackgroundTiles_4
   - ForegroundTiles_15
   - ForegroundTiles_14
   - ForegroundTiles_16
