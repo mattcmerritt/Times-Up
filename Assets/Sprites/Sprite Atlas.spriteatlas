@@ -47,6 +47,8 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
     - {fileID: 2800000, guid: ba9808d54d4752a42a291e955caf1fb5, type: 3}
     - {fileID: 2800000, guid: 7657416065741454b8e3b2289f83e1ff, type: 3}
+    - {fileID: 2800000, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+    - {fileID: 2800000, guid: 619026decb793114794977c7ea0e6f8d, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -57,6 +59,12 @@ SpriteAtlas:
   - {fileID: 7305448822387449374, guid: 7657416065741454b8e3b2289f83e1ff, type: 3}
   - {fileID: 4128311487361071578, guid: 7657416065741454b8e3b2289f83e1ff, type: 3}
   - {fileID: 6313762902591139991, guid: 7657416065741454b8e3b2289f83e1ff, type: 3}
+  - {fileID: 6839340049822700747, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+  - {fileID: -6597521110660786647, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+  - {fileID: -6431012497010954764, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+  - {fileID: 1015847732494871322, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+  - {fileID: -4968629603880267010, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
+  - {fileID: 1335897771538589614, guid: cb5b9f8391af5f340b1d89a65efb5633, type: 3}
   - {fileID: 4389087710526665422, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
   - {fileID: -5724921108977739793, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
   - {fileID: -8682475869999219753, guid: 631b50b41fb4adf48bb76af3b6662644, type: 3}
@@ -91,12 +99,22 @@ SpriteAtlas:
   - {fileID: -3940497923244491964, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   - {fileID: 2385183464074690143, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
   - {fileID: 1474558813612535658, guid: 09a8cbf524b6a4b45afdb9e7bfd69b15, type: 3}
+  - {fileID: 3948044883147780746, guid: 619026decb793114794977c7ea0e6f8d, type: 3}
+  - {fileID: 4701951956927850206, guid: 619026decb793114794977c7ea0e6f8d, type: 3}
+  - {fileID: -3985202505367049837, guid: 619026decb793114794977c7ea0e6f8d, type: 3}
+  - {fileID: -160935038384304031, guid: 619026decb793114794977c7ea0e6f8d, type: 3}
   m_PackedSpriteNamesToIndex:
   - KitchenForeground_3
   - KitchenForeground_2
   - KitchenForeground_1
   - KitchenForeground_0
   - KitchenForeground_4
+  - Assorted Background Items_5
+  - Assorted Background Items_4
+  - Assorted Background Items_1
+  - Assorted Background Items_0
+  - Assorted Background Items_3
+  - Assorted Background Items_2
   - BackgroundTiles_10
   - BackgroundTiles_11
   - BackgroundTiles_9
@@ -131,6 +149,10 @@ SpriteAtlas:
   - ForegroundTiles_3
   - ForegroundTiles_0
   - ForegroundTiles_1
+  - Living Room Foreground Tiles_2
+  - Living Room Foreground Tiles_3
+  - Living Room Foreground Tiles_0
+  - Living Room Foreground Tiles_1
   m_RenderDataMap: {}
   m_Tag: Sprite Atlas
   m_IsVariant: 0
